@@ -1,5 +1,5 @@
 {
-  "id": "6fd570fc-7aa0-40e5-a26b-27e38dd3d400",
+  "id": "6fd570fc-7aa0-40e5-a26b-27e38dd3d401",
   "name": "Test Impl2",
   "publisher": "JacoB",
   "version": "1.0.0.0",
@@ -21,6 +21,7 @@
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
+  "runtime": "11.0",
   "idRanges": [
     {
       "from": 75200,

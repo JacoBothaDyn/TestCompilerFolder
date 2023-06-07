@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "BC22",
+            "name": "BC22gb",
             "type": "al",
             "request": "launch",
-            "server": "http://bc22",
+            "server": "http://bc22gb",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,
@@ -17,7 +17,8 @@
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
             "tenant": "default",
-            "usePublicURLFromServer": true
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode": "Recreate"
         }
     ]
 }
