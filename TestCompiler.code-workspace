@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "name": "Core",
+			"path": "Core/Test Core"
+        },
+		{
+            "name": "TestImpl1",
+			"path": "TestImpl1/Test Impl1"
+        },
+		{
+            "name": "TestImpl1Func",
+			"path": "TestImpl1/Test Impl1 Func Area"
+        },
+		{
+            "name": "TestImpl2",
+			"path": "TestImpl2/Test Impl2"
+        },
+		{
+            "name": "TestImpl2Func",
+			"path": "TestImpl2/Test Impl2 Func Area"
+        },
+		
+    ],
+    "settings": {}
+}

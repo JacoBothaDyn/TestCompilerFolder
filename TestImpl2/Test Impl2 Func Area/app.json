@@ -1,6 +1,6 @@
 {
   "id": "5086821e-b19e-44f8-b49f-427369462d72",
-  "name": "Test Impl1 Func Area",
+  "name": "Test Impl2 Func Area",
   "publisher": "JacoB",
   "version": "1.0.0.0",
   "brief": "",
@@ -13,19 +13,18 @@
   "dependencies": [
     {
         "id": "6fd570fc-7aa0-40e5-a26b-27e38dd3d400",
-        "name": "Test Impl1",
+        "name": "Test Impl2",
         "publisher": "JacoB",
         "version": "1.0.0.0"
     }
- 
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
   "idRanges": [
     {
-      "from": 75100,
-      "to": 75110
+      "from": 75200,
+      "to": 75210
     }
   ],
   "features": [
